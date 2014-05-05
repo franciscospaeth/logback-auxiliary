@@ -1,7 +1,7 @@
 logback-auxiliary
 =================
 
-Auxiliary tools for easy logback configuration.
+Auxiliary tools for easy [logback](https://github.com/qos-ch/logback) configuration.
 
 Web Interface Log Level Configuration
 -------------------------------------
